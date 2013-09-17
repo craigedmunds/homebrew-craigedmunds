@@ -1,6 +1,6 @@
 require 'formula'
 
-class UMongo < Formula
+class Umongo < Formula
   homepage 'http://www.edgytech.com/umongo'
   url 'https://github.com/agirbal/umongo'
   version 'tip'
